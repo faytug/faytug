@@ -48,7 +48,7 @@ My proficiency extends beyond coding, covering the entire lifecycle of a robust 
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/fatih-aytug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/fatih-aytug](https://www.linkedin.com/in/fatih-aytug/))
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:fatayt@gmail.com)
 
 ---
