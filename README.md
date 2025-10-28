@@ -1,4 +1,4 @@
-# 🚀 Greetings! I'm Faytug, an SDET & Automation Specialist 👋
+# 🚀 Greetings! I'm faytug, an SDET & Automation Specialist 👋
 
 I am a dedicated **Software Development Engineer in Test (SDET)** focused on leveraging **Behavior-Driven Development (BDD)** and modern automation tools to guarantee high-quality software delivery.
 
@@ -47,7 +47,7 @@ My proficiency extends beyond coding, covering the entire lifecycle of a robust 
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](**[Your LinkedIn Profile Link Here]**)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:**[Your Email Address Here]**)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](**[www.linkedin.com/in/fatih-aytug]**)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:**[fatayt@gmail.com]**)
 
 ---
