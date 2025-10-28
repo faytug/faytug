@@ -40,7 +40,7 @@ My proficiency extends beyond coding, covering the entire lifecycle of a robust 
 ### 📈 My GitHub Activity (Dynamic Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faytug&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Faytug's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faytug&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="faytug's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faytug&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
