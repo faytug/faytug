@@ -29,6 +29,7 @@ My proficiency extends beyond coding, covering the entire lifecycle of a robust 
 | :--- | :--- |
 | **Framework Architecture** | Designing modular, **Page Object Model (POM)** and **BDD/Gherkin** based frameworks using C#/.NET and Java. |
 | **CI/CD Pipeline Setup** | Implementing automated **Workflows (Pipelines)** using GitHub Actions. Proficient in configuring **`.yaml`** files for build, test execution, and reporting phases |
+| **Server Administration** | Proficient in configuring and utilizing a Self-hosted Runner on a Windows Server for GitHub Actions, ensuring test environments requiring private network access are managed effectively |
 | **Environment Management** | Setting up flexible configuration for multi-environment execution (**Dev, UAT**) with parameterized control over browser choice (Chrome, Edge) and Headless modes |
 | **Server Administration** | Configuring necessary test environments and dependencies on CI/CD runners and servers (e.g., GitHub Runners) for seamless execution. |
 | **Reporting & Quality Assurance** | Generating detailed **ExtentReport HTML** reports and automating **Mail Content Generation** for clear, actionable failure/pass metrics to stakeholders. |
@@ -47,7 +48,7 @@ My proficiency extends beyond coding, covering the entire lifecycle of a robust 
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](**[www.linkedin.com/in/fatih-aytug]**)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:**[fatayt@gmail.com]**)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](**www.linkedin.com/in/fatih-aytug**)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:**fatayt@gmail.com**)
 
 ---
